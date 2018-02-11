@@ -4,10 +4,10 @@
 \contentsline {section}{\numberline {1.2}Pengantar}{1}{section.1.2}
 \contentsline {section}{\numberline {1.3}Praktek}{2}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Instalasi XAMPP}{2}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Instalasi Git dan Akun Github}{2}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Instalasi Visual Studio Code}{2}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Registrasi 000webhost.com}{2}{subsection.1.3.4}
-\contentsline {subsection}{\numberline {1.3.5}Aplikasi Selamat Datang}{6}{subsection.1.3.5}
-\contentsline {subsection}{\numberline {1.3.6}Unggah ke Github}{11}{subsection.1.3.6}
-\contentsline {section}{\numberline {1.4}Kesimpulan}{13}{section.1.4}
-\contentsline {section}{\numberline {1.5}Tugas}{13}{section.1.5}
+\contentsline {subsection}{\numberline {1.3.2}Instalasi Git dan Akun Github}{5}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Instalasi Visual Studio Code}{5}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Registrasi 000webhost.com}{5}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Aplikasi Selamat Datang}{8}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}Unggah ke Github}{14}{subsection.1.3.6}
+\contentsline {section}{\numberline {1.4}Kesimpulan}{16}{section.1.4}
+\contentsline {section}{\numberline {1.5}Tugas}{16}{section.1.5}
